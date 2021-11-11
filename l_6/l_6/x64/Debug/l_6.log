@@ -1,0 +1,3 @@
+﻿  Fraction.cpp
+C:\Users\Arsen\source\repos\l_6\l_6\Fraction.cpp(84): warning C4715: Fraction::operator==: значение возвращается не при всех путях выполнения
+  l_6.vcxproj -> C:\Users\Arsen\source\repos\l_6\x64\Debug\l_6.exe
