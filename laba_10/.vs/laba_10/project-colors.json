@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06a0455b-8d9a-4e80-bfe9-fef509c2c0dc": {
+      "ProjectGuid": "06a0455b-8d9a-4e80-bfe9-fef509c2c0dc",
+      "DisplayName": "laba_10",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

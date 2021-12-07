@@ -23,6 +23,7 @@ public:
 	int GetPassNum() { return pass_num; }
 
 	void Display();
+	void Change();
 
 	Adult& operator++(int);
 	Adult& operator--(int);

@@ -15,13 +15,21 @@ int main()
     string* n = &name;
     Man m(n, 19, 100);
     m.Display();
-    
+    cout << endl;
+    m.Change();
+    cout << endl;
+    m.Display();
+
     m++;
     cout << endl << "m++" << endl;
     m.Display();
 
     cout << endl << endl;
     Adult a(m, 12412412);
+    a.Display();
+    cout << endl;
+    a.Change();
+    cout << endl;
     a.Display();
 
     a++;
@@ -32,6 +40,10 @@ int main()
     string boy_name = "Lil";
     n = &boy_name;
     School s(n, 8, 40, 3);
+    s.Display();
+    cout << endl;
+    s.Change();
+    cout << endl;
     s.Display();
 
     s++;

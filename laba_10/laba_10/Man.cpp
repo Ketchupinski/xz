@@ -13,9 +13,14 @@ Man::Man() {
 }
 
 Man::Man(string* name, int age, int weight) {
-	this->name = name;
-	this->age = age;
-	this->weight = weight;
+	if (age > 0 && weight > 0) {
+		this->name = name;
+		this->age = age;
+		this->weight = weight;
+	}
+	else {
+		exit(0);
+	}
 }
 
 Man::Man(Man& m) {
@@ -27,6 +32,27 @@ Man::Man(Man& m) {
 Man::~Man() {
 	this->name = nullptr;
 }
+
+void Man::SetAge(int age) {
+	if (age > 0) {
+		this->age = age;
+	}
+	else {
+		cout << "Wrong arguments given!" << endl;
+		exit(0);
+	}
+}
+
+void Man::SetWeight(int weight) {
+	if (age > 0) {
+		this->weight = weight;
+	}
+	else {
+		cout << "Wrong arguments given!" << endl;
+		exit(0);
+	}
+}
+
 
 void Man::Display() {
 	cout << "Name: " << *this->name << endl;
@@ -52,4 +78,16 @@ Man& Man::operator++(int) {
 Man& Man::operator--(int) {
 	this->weight++;
 	return *this;
+}
+
+void Man::Change() {
+	cout << endl;
+	int a;
+	cout << "Input new age: "; cin >> a;
+	if (a > 0) {
+		this->age = a;
+	}
+	else {
+		cout << "Wrong arguments given!" << endl;
+	}
 }

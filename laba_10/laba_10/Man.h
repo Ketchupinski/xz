@@ -19,8 +19,8 @@ private:
 	int weight;
 public:
 	void SetName(string* name) { this->name = name; }
-	void SetAge(int age) { this->age = age; }
-	void SetWeight(int weight) { this->weight = weight; }
+	void SetAge(int age);
+	void SetWeight(int weight);
 	string* GetName() { return name; }
 	int GetAge() { return age; }
 	int GetWeight() { return weight; }
@@ -31,6 +31,7 @@ public:
 	~Man();
 
 	void Display();
+	void Change();
 
 	Man& operator++();
 	Man& operator--();

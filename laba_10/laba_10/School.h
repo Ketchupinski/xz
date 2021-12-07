@@ -23,6 +23,7 @@ public:
 	void SetClass() { this->class_num = class_num; }
 
 	void Display();
+	void Change();
 
 	School& operator++(int);
 	School& operator--(int);
