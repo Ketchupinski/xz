@@ -1,0 +1,15 @@
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\bin\Debug\net6.0\l_6_C.exe
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\bin\Debug\net6.0\l_6_C.deps.json
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\bin\Debug\net6.0\l_6_C.runtimeconfig.json
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\bin\Debug\net6.0\l_6_C.dll
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\bin\Debug\net6.0\ref\l_6_C.dll
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\bin\Debug\net6.0\l_6_C.pdb
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\l_6_C.csproj.AssemblyReference.cache
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\l_6_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\l_6_C.AssemblyInfoInputs.cache
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\l_6_C.AssemblyInfo.cs
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\l_6_C.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\l_6_C.dll
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\ref\l_6_C.dll
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\l_6_C.pdb
+C:\Users\Arsen\source\repos\l_6_C\l_6_C\obj\Debug\net6.0\l_6_C.genruntimeconfig.cache
