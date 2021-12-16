@@ -1,0 +1,5 @@
+﻿  lab_13.cpp
+  Trapezium.cpp
+C:\Users\Arsen\source\repos\lab_13\lab_13\Trapezium.cpp(30,29): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lab_13.vcxproj -> C:\Users\Arsen\source\repos\lab_13\x64\Debug\lab_13.exe
